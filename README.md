@@ -1,5 +1,7 @@
 ## Hi there 👋 my name is Mike Bidinger
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <!--
 **MikeBidinger/MikeBidinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
