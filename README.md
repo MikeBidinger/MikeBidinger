@@ -1,7 +1,7 @@
 ## Hi there 👋 my name is Mike Bidinger
 
 I'm mainly a Python programmer, but even more so a tech enthusiast! 👨‍💻
-Apart from the fact that I already have quite a bit of knowledge, I keep challenging myself and others to broaden my knowledge. #lovetolearn
+Apart from the fact that I already have quite a bit of knowledge, I keep challenging myself and others to broaden my knowledge. <i>#ILoveToLearn</i>
 
 ### For further information about me:
 
