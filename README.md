@@ -4,7 +4,6 @@ I'm mainly a Python programmer, but even more so a tech enthusiast! 👨‍💻
 
 ### For further information about me:
 
-<p>
 <a href="https://www.linkedin.com/in/mike-bidinger-359906247/" target="_blank">
   <picture>
     <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/LinkedIn.svg" alt="LinkedIn", height="48">
@@ -14,7 +13,6 @@ I'm mainly a Python programmer, but even more so a tech enthusiast! 👨‍💻
 or
 
 <a href="https://github.com/MikeBidinger/Resume/tree/main">Resume</a>
-</p>
 
 ### Experience with:
 
