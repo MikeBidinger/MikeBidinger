@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Python-Dark.svg" alt="Python" height="50"/>
+<img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Python-Dark.svg" alt="Python" height="48"/>
 
 ![My Skills](https://skillicons.dev/icons?i=python)
 
