@@ -10,8 +10,6 @@ I'm mainly a Python programmer, but even more so a tech enthusiast! 👨‍💻
   </picture>
 </a>
 
-or
-
 <a href="https://github.com/MikeBidinger/Resume/tree/main">Resume</a>
 
 ### Experience with:
