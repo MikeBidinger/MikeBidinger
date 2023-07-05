@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Python-Dark.svg" alt="Python" height="48"/>
 <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Python-Light.svg" alt="Python" height="48"/>
 -->
-<a href="https://www.python.org/">
+<a href="https://www.python.org/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Python-Dark.svg">
     <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Python-Light.svg" alt="Python", height="48">
