@@ -1,2 +1,2 @@
-![My Skills](https://skillicons.dev/icons?i=python&theme=dark#gh-dark-mode-only)
-![My Skills](https://skillicons.dev/icons?i=python&theme=light#gh-light-mode-only)
+![My Skills](https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Python-Dark.svg)
+![My Skills](https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Python-Light.svg)
