@@ -1,8 +1,7 @@
 ## Hi there 👋 my name is Mike Bidinger
 
 ### Experience with:
-[![My Skills](https://skillicons.dev/icons?i=python&theme=dark#gh-dark-mode-only)](https://www.python.org/)
-[![My Skills](https://skillicons.dev/icons?i=python&theme=light#gh-light-mode-only)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
 
 <!--
 **MikeBidinger/MikeBidinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
