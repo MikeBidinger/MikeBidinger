@@ -43,6 +43,12 @@
   </picture>
 </a>
 
+<a href="https://www.w3schools.com/mongodb/" target="_blank">
+  <picture>
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/MongoDB.svg" alt="MongoDB", height="48">
+  </picture>
+</a>
+
 <!--
 **MikeBidinger/MikeBidinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
