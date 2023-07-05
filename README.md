@@ -1,5 +1,15 @@
 ## Hi there 👋 my name is Mike Bidinger
 
+I'm mainly a Python programmer, but even more so a tech enthusiast! 👨‍💻
+
+### For further information about me:
+
+<a href="https://www.linkedin.com/in/mike-bidinger-359906247/" target="_blank">
+  <picture>
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/LinkedIn.svg" alt="LinkedIn", height="48">
+  </picture>
+</a>
+
 ### Experience with:
 
 <a href="https://www.python.org/" target="_blank">
