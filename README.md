@@ -62,6 +62,10 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
   </picture>
 </a>
 
+### Notable projects:
+
+https://github.com/MikeBidinger/Python_ETL
+
 <!--
 **MikeBidinger/MikeBidinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
