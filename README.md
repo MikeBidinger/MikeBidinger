@@ -64,7 +64,14 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
 
 ### Notable projects:
 
-https://github.com/MikeBidinger/Python_ETL
+- ETL with Python: https://github.com/MikeBidinger/Python_ETL
+- Basic Python AI: https://github.com/MikeBidinger/Python_AI
+- Pygame: https://github.com/MikeBidinger/Pygame
+
+### Working on:
+
+- Data management concept with Python
+- A new platformer game with Pygame
 
 <!--
 **MikeBidinger/MikeBidinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
