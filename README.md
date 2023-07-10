@@ -68,7 +68,7 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
 - Basic Python AI: https://github.com/MikeBidinger/Python_AI
 - Pygame: https://github.com/MikeBidinger/Pygame
 
-### Helpfull functions:
+### Helpful functions:
 
 - Python functions: https://github.com/MikeBidinger/Python_Functions
 - Python API's: https://github.com/MikeBidinger/Python_API
