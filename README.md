@@ -46,10 +46,7 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
 
 <a href="https://www.w3schools.com/css/" target="_blank">
   <picture>
-    <div style="position: relative; display: inline-block">
-      <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/CSS.svg" alt="CSS", height="48">
-      <span style="width: 120px; background-color: black; color: #fff; text-align: center; border-radius: 6px; padding: 5px 0; position: absolute; z-index: 1; top: 150%; left: 50%; margin-left: -60px;">CSS</span>
-    </div>
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/CSS.svg" alt="CSS", height="48">
   </picture>
 </a>
 
