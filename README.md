@@ -6,6 +6,7 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
 ### For further information about me:
 
 This is a [hover text](## "your hover text") example.
+[Display text](a "Hover text")
 
 <a href="https://www.linkedin.com/in/mike-bidinger-359906247/" target="_blank">
   <picture>
@@ -13,7 +14,7 @@ This is a [hover text](## "your hover text") example.
   </picture>
 </a>
 
-<a href="https://github.com/MikeBidinger/Resume/tree/main">Resume</a>(## "your hover text")
+<a href="https://github.com/MikeBidinger/Resume/tree/main">Resume</a>
 
 ### Experience with:
 
