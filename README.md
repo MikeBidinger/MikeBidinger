@@ -46,7 +46,9 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
 
 <a href="https://www.w3schools.com/css/" target="_blank">
   <picture>
-    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/CSS.svg" alt="CSS", height="48">
+    <div>
+      <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/CSS.svg" alt="CSS", height="48">
+    </div>
   </picture>
 </a>
 
