@@ -13,7 +13,7 @@ This is a [hover text](## "your hover text") example.
   </picture>
 </a>
 
-<a href="https://github.com/MikeBidinger/Resume/tree/main">Resume</a>
+<a href="https://github.com/MikeBidinger/Resume/tree/main">Resume</a>(## "your hover text")
 
 ### Experience with:
 
@@ -42,7 +42,7 @@ This is a [hover text](## "your hover text") example.
 
 <a href="https://www.w3schools.com/html/" target="_blank">
   <picture>
-    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/HTML.svg" alt="HTML", height="48">(## "your hover text")
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/HTML.svg" alt="HTML", height="48">
   </picture>
 </a>
 
