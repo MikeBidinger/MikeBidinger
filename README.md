@@ -81,7 +81,7 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
 
 ### Working on:
 
-- Flexible Font-End visualisation of BSON formatted data (data structure composed of key value pairs similar to the structure of JSON objects) using the <a href="https://tabulator.info/" target="_blank">Tabulator</a> source
+- Flexible Font-End visualisation of JSON formatted data (data structure composed of key value pairs) using the <a href="https://tabulator.info/" target="_blank">Tabulator</a> source
   - Including a Back-End solution to extract, transform and load tabular data and hierarhical data
 - Data management concept with Python
 - A new platformer game with Pygame
