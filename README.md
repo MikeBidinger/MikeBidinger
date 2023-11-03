@@ -81,6 +81,7 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
 
 ### Working on:
 
+- Font- and Back-End visualisation solution for structured data
 - Data management concept with Python
 - A new platformer game with Pygame
 
