@@ -81,8 +81,8 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
 
 ### Working on:
 
-- Flexible Font-End visualisation of BSON data using the <a href="https://tabulator.info/">Tabulator</a> source
-  (and Back-End solution to extract, transform and load tabular data and hierarhical data)
+- Flexible Font-End visualisation of BSON data using the <a href="https://tabulator.info/" target="_blank">Tabulator</a> source
+  - Icluding a Back-End solution to extract, transform and load tabular data and hierarhical data
 - Data management concept with Python
 - A new platformer game with Pygame
 
