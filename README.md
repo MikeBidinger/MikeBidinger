@@ -81,8 +81,9 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
 
 ### Working on:
 
-- Flexible Font-End visualisation of JSON formatted data (data structure composed of key value pairs) using the <a href="https://tabulator.info/" target="_blank">Tabulator</a> source
+- Flexible and responsive Font-End visualisation of JSON formatted data (data structure composed of key value pairs) using the <a href="https://tabulator.info/" target="_blank">Tabulator</a> source
   - Including a Back-End solution to extract data, transform and load it as JSON tabular data and/or JSON hierarhical data
+- Flexible and responsive Font-End visualisation of data-files (e.g. CSV, JSON, etc.)
 - Data management concept with Python
 - A new platformer game with Pygame
 
