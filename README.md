@@ -76,15 +76,15 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
 
 ### Notable projects:
 
-- ETL with Python: https://github.com/MikeBidinger/Python_ETL
-- Basic Python AI: https://github.com/MikeBidinger/Python_AI
-- Pygame: https://github.com/MikeBidinger/Pygame
-- Tabulator: https://github.com/MikeBidinger/Tabulator
+- [ETL with Python](https://github.com/MikeBidinger/Python_ETL)
+- [Basic Python AI](https://github.com/MikeBidinger/Python_AI)
+- [Pygame](https://github.com/MikeBidinger/Pygame)
+- [Tabulator](https://github.com/MikeBidinger/Tabulator)
 
 ### Helpful functions:
 
-- Python functions: https://github.com/MikeBidinger/Python_Functions
-- Python API's: https://github.com/MikeBidinger/Python_API
+- [Python functions](https://github.com/MikeBidinger/Python_Functions)
+- [Python API's](https://github.com/MikeBidinger/Python_API)
 
 ### Working on:
 
