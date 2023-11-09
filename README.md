@@ -11,7 +11,7 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
   </picture>
 </a>
 
-<a href="https://github.com/MikeBidinger/Resume/tree/main">Resume</a>
+[Resume](https://github.com/MikeBidinger/Resume)
 
 ### Experience with:
 
