@@ -68,6 +68,12 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
   </picture>
 </a>
 
+<a href="https://chat.openai.com/" target="_blank">
+  <picture>
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/ChatGPT.png" alt="ChatGPT", height="48">
+  </picture>
+</a>
+
 ### Notable projects:
 
 - ETL with Python: https://github.com/MikeBidinger/Python_ETL
