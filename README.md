@@ -80,7 +80,6 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
 - [Basic Python AI](https://github.com/MikeBidinger/Python_AI)
 - [Pygame](https://github.com/MikeBidinger/Pygame)
 - [Tabulator](https://github.com/MikeBidinger/Tabulator)
-- Web Scraping, Web Automation, Bot
 
 ### Helpful functions:
 
@@ -90,6 +89,7 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
 ### Working on:
 
 - Flexible and responsive Font-End visualisation of data-files (e.g. CSV, JSON, etc.)
+- Web Scraping, Web Automation, Bot
 - Data management concept with Python
 - A new platformer game with Pygame
 
