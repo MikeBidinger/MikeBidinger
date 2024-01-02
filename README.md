@@ -80,7 +80,7 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
 - [Basic Python AI](https://github.com/MikeBidinger/Python_AI)
 - [Pygame](https://github.com/MikeBidinger/Pygame)
 - [Tabulator](https://github.com/MikeBidinger/Tabulator)
-- [Web-based Games](https://github.com/MikeBidinger/Web_Dev)
+- [Web-based games](https://github.com/MikeBidinger/Web_Dev)
 
 ### Helpful functions:
 
