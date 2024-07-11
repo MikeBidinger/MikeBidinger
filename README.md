@@ -1,6 +1,6 @@
 ## Hi there :wave: my name is Mike Bidinger
 
-**MikeBidinger/MikeBidinger** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
+**MikeBidinger/MikeBidinger** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on my GitHub profile.
 
 I'm mainly a Python programmer, but even more so a tech enthusiast! 
 :man_technologist: Apart from the fact that I already have quite a bit of 
