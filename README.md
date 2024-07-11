@@ -74,6 +74,11 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
   </picture>
 </a>
 
+### Helpful functions:
+
+- [Python functions](https://github.com/MikeBidinger/Python_Functions)
+- [Python API's](https://github.com/MikeBidinger/Python_API)
+
 ### Notable projects:
 
 - [Webscraping using Selenium with Python](https://github.com/MikeBidinger/WebScrap_Selenium)
@@ -83,16 +88,11 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
 - [Tabulator](https://github.com/MikeBidinger/Tabulator)
 - [Web-based games](https://github.com/MikeBidinger/Web_Games)
 
-### Helpful functions:
-
-- [Python functions](https://github.com/MikeBidinger/Python_Functions)
-- [Python API's](https://github.com/MikeBidinger/Python_API)
-
 ### Working on:
 
 - Flexible and responsive Font-End visualisation of data-files (e.g. CSV, JSON, etc.)
 - Data management concept with Python
-- A new platformer game with Pygame
+- A new basic and scalable platformer game with Pygame
 
 <!--
 **MikeBidinger/MikeBidinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
