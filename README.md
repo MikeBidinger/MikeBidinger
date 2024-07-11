@@ -74,7 +74,7 @@ Apart from the fact that I already have quite a bit of knowledge, I keep challen
   </picture>
 </a>
 
-### Helpful functions:
+### Helpful projects:
 
 - [Python functions](https://github.com/MikeBidinger/Python_Functions)
 - [Python API's](https://github.com/MikeBidinger/Python_API)
