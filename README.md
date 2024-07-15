@@ -56,7 +56,9 @@ I keep challenging myself and others to broaden my knowledge.
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/CSS.svg" alt="CSS", height="48">
+  <picture>
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/CSS.svg" alt="CSS", height="48">
+  </picture>
 </a>
 
 <a href="https://www.w3schools.com/js/" target="_blank">
@@ -66,15 +68,21 @@ I keep challenging myself and others to broaden my knowledge.
 </a>
 
 <a href="https://www.w3schools.com/mongodb/" target="_blank">
-  <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/MongoDB.svg" alt="MongoDB", height="48">
+  <picture>
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/MongoDB.svg" alt="MongoDB", height="48">
+  </picture>
 </a>
 
 <a href="https://www.w3schools.com/django/" target="_blank">
-  <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Django.svg" alt="Django", height="48">
+  <picture>
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Django.svg" alt="Django", height="48">
+  </picture>
 </a>
 
 <a href="https://chat.openai.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/ChatGPT.png" alt="ChatGPT", height="48">
+  <picture>
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/ChatGPT.png" alt="ChatGPT", height="48">
+  </picture>
 </a>
 
 ### Helpful projects:
