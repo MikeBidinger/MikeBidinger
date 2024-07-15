@@ -50,7 +50,9 @@ I keep challenging myself and others to broaden my knowledge.
 ### Knowledge of:
 
 <a href="https://www.w3schools.com/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/HTML.svg" alt="HTML", height="48">
+  <picture>
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/HTML.svg" alt="HTML", height="48">
+  </picture>
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank">
@@ -58,7 +60,9 @@ I keep challenging myself and others to broaden my knowledge.
 </a>
 
 <a href="https://www.w3schools.com/js/" target="_blank">
-  <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/JavaScript.svg" alt="JavaScript", height="48">
+  <picture>
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/JavaScript.svg" alt="JavaScript", height="48">
+  </picture>
 </a>
 
 <a href="https://www.w3schools.com/mongodb/" target="_blank">
