@@ -1,12 +1,13 @@
 ## Hi there :wave: my name is Mike Bidinger
 
-I'm mainly a Python programmer, but even more so a tech enthusiast! :man_technologist: 
+I'm mainly a Python programmer, but even more so a data and tech enthusiast!
+:man_technologist:
 Apart from the fact that I already have quite a bit of knowledge, 
 I keep challenging myself and others to broaden my knowledge. 
-<i>#ILoveToLearn</i>
+*#ILoveToLearn*
 
 -   :man_office_worker: I’m currently working on:
-    -   [Mastering "Data Management"](https://connecteddatagroup.com/en/home-english/ "Connected Data Group, an Open Line company"){:target="_blank"}
+    -   [Mastering "Data Management"](https://connecteddatagroup.com/en/home-english/ "Connected Data Group, an Open Line company")
 -   :books: I’m currently learning:
     -   [Certified Data Vault Data Modeling](https://connecteddataacademy.com/project/certified-data-vault-data-modeling/ "CDVDM")
     -   [Certified Data Management Fundamentals (DAMA-DMBoK)](https://connecteddataacademy.com/project/certified-data-management-professional-cdmp/ "CDMP (DAMA-DMBoK)")
@@ -29,7 +30,10 @@ I keep challenging myself and others to broaden my knowledge.
   <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/LinkedIn.svg" alt="LinkedIn", height="48">
 </a>
 
-<!-- [Resume](https://github.com/MikeBidinger/Resume) -->
+<!--
+Out of date, need updating:
+[Resume](https://github.com/MikeBidinger/Resume)
+-->
 
 ### Experience with:
 
@@ -110,8 +114,7 @@ I keep challenging myself and others to broaden my knowledge.
 ### Working on:
 
 -   Flexible and responsive Font-End visualisation of data-files (e.g. CSV, JSON, etc.)
--   Data management concept with Python
--   A new basic and scalable platformer game with Pygame
+-   A new basic, scalable and customizable platformer game with Pygame
 
 > [!TIP]
 > **MikeBidinger/MikeBidinger** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
