@@ -103,6 +103,20 @@ Out of date, need updating:
   </picture>
 </a>
 
+<a href="https://www.geneseeacademy.com/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/DataVault-Dark.png">
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/DataVault-Light.png" alt="DataVault", height="48">
+  </picture>
+</a>
+
+<a href="https://datavault-builder.com/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/DataVault-Builder-Dark.png">
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/DataVault-Builder-Light.png" alt="DataVault-Builder", height="48">
+  </picture>
+</a>
+
 <a href="https://kubernetes.io/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Kubernetes-Dark.png">
