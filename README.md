@@ -96,6 +96,20 @@ Out of date, need updating:
   </picture>
 </a>
 
+<a href="https://git-scm.com/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Git-Dark.png">
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Git-Light.png" alt="Git", height="48">
+  </picture>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Kubernetes-Dark.png">
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Kubernetes-Light.png" alt="Kubernetes", height="48">
+  </picture>
+</a>
+
 ### Helpful projects:
 
 -   [Markdown](https://github.com/MikeBidinger/Markdown)
