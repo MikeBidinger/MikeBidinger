@@ -5,14 +5,23 @@ Apart from the fact that I already have quite a bit of knowledge,
 I keep challenging myself and others to broaden my knowledge. 
 <i>#ILoveToLearn</i>
 
-- :man_office_worker: I’m currently working on mastering "Data Management"
-- :books: I’m currently learning "DataVault" and "DataVault Builder"
-<!-- - 👯 I’m looking to collaborate on ...
+-   :man_office_worker: I’m currently working on:
+    -   [Mastering "Data Management"](https://connecteddatagroup.com/en/home-english/ "Connected Data Group, an Open Line company")
+-   :books: I’m currently learning:
+    -   [Certified Data Vault Data Modeling](https://connecteddataacademy.com/project/certified-data-vault-data-modeling/ "CDVDM")
+    -   [Certified Data Management Fundamentals (DAMA-DMBoK)](https://connecteddataacademy.com/project/certified-data-management-professional-cdmp/ "CDMP (DAMA-DMBoK)")
+    -   [DataVault Builder](https://datavault-builder.com/ "DataVault Builder")
+    -   [Denodo](https://www.denodo.com "Denodo")
+<!--
+    -   [SingleStore](https://www.singlestore.com/ "SinleStore")
+    -   [Kubernetes](https://kubernetes.io/ "Kubernetes")
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ...
+-->
 
 ### For further information about me:
 
