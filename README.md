@@ -6,7 +6,7 @@ I keep challenging myself and others to broaden my knowledge.
 <i>#ILoveToLearn</i>
 
 -   :man_office_worker: I’m currently working on:
-    -   [Mastering "Data Management"](https://connecteddatagroup.com/en/home-english/ "Connected Data Group, an Open Line company")
+    -   [Mastering "Data Management"](https://connecteddatagroup.com/en/home-english/ "Connected Data Group, an Open Line company"){:target="_blank"}
 -   :books: I’m currently learning:
     -   [Certified Data Vault Data Modeling](https://connecteddataacademy.com/project/certified-data-vault-data-modeling/ "CDVDM")
     -   [Certified Data Management Fundamentals (DAMA-DMBoK)](https://connecteddataacademy.com/project/certified-data-management-professional-cdmp/ "CDMP (DAMA-DMBoK)")
