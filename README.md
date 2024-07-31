@@ -8,6 +8,7 @@ I keep challenging myself and others to broaden my knowledge.
 
 -   :man_office_worker: I’m currently working on:
     -   [Mastering "Data Management"](https://connecteddatagroup.com/en/home-english/ "Connected Data Group, an Open Line company")
+    -   A [Python AI Chatbot](https://github.com/MikeBidinger/PythonOllamaChatbot) using Ollama (that is both hosted and ran locally)
 -   :books: I’m currently learning:
     -   [Certified Data Vault Data Modeling](https://connecteddataacademy.com/project/certified-data-vault-data-modeling/ "CDVDM")
     -   [Certified Data Management Fundamentals (DAMA-DMBoK)](https://connecteddataacademy.com/project/certified-data-management-professional-cdmp/ "CDMP (DAMA-DMBoK)")
@@ -141,6 +142,7 @@ Out of date, need updating:
 
 ### Working on:
 
+-   A [Python AI Chatbot](https://github.com/MikeBidinger/PythonOllamaChatbot) using Ollama (that is both hosted and ran locally)
 -   Flexible and responsive Font-End visualisation of data-files (e.g. CSV, JSON, etc.)
 -   A new basic, scalable and customizable platformer game with Pygame
 
