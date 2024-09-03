@@ -130,6 +130,7 @@ Out of date, need updating:
 -   [Markdown](https://github.com/MikeBidinger/Markdown)
 -   [Python functions](https://github.com/MikeBidinger/Python_Functions)
 -   [Python API's](https://github.com/MikeBidinger/Python_API)
+-   [Python Anaconda](https://github.com/MikeBidinger/Python_Anaconda)
 
 ### Notable projects:
 
