@@ -134,6 +134,7 @@ Out of date, need updating:
 ### Notable projects:
 
 -   [Webscraping using Selenium with Python](https://github.com/MikeBidinger/WebScrap_Selenium)
+-   [AI Webscraper](https://github.com/MikeBidinger/AI_Scraper)
 -   [ETL with Python](https://github.com/MikeBidinger/Python_ETL)
 -   [Basic Python AI](https://github.com/MikeBidinger/Python_AI)
 -   [Pygame](https://github.com/MikeBidinger/Pygame)
