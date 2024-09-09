@@ -1,7 +1,6 @@
 ## Hi there :wave: my name is Mike Bidinger
 
-I'm mainly a Python programmer, but even more so a data and tech enthusiast!
-:technologist:
+I'm mainly a Python programmer, but even more so a data and tech enthusiast! :man_technologist:
 Apart from the fact that I already have quite a bit of knowledge, 
 I keep challenging myself and others to broaden my knowledge. 
 *#ILoveToLearn*
