@@ -127,10 +127,11 @@ Out of date, need updating:
 
 ### Helpful projects:
 
--   [Markdown](https://github.com/MikeBidinger/Markdown)
--   [Python functions](https://github.com/MikeBidinger/Python_Functions)
+-   [Markdown](https://github.com/MikeBidinger/Markdown "Markdown syntaxes")
+-   [Python functions](https://github.com/MikeBidinger/Python_Functions "Useful Python functions")
 -   [Python API's](https://github.com/MikeBidinger/Python_API)
--   [Python Anaconda](https://github.com/MikeBidinger/Python_Anaconda)
+-   [Python Anaconda](https://github.com/MikeBidinger/Python_Anaconda "Anaconda commands and info")
+-   [Data Conversions](https://github.com/MikeBidinger/Data_Conversion "Converting data formats")
 
 ### Notable projects:
 
