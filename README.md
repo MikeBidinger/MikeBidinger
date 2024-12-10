@@ -8,8 +8,9 @@ I keep challenging myself and others to broaden my knowledge.
 -   :man_office_worker: I’m currently working on:
     -   [Mastering "Data Management"](https://connecteddatagroup.com/en/home-english/ "Connected Data Group, an Open Line company")
     -   A [Python AI Chatbot](https://github.com/MikeBidinger/PythonOllamaChatbot) using Ollama (that is both hosted and ran locally)
+-   :man_student: I'm certified as:
+    -   [Certified Data Vault Data Modeler](https://connecteddataacademy.com/project/certified-data-vault-data-modeling/ "CDVDM")
 -   :books: I’m currently learning:
-    -   [Certified Data Vault Data Modeling](https://connecteddataacademy.com/project/certified-data-vault-data-modeling/ "CDVDM")
     -   [Certified Data Management Fundamentals (DAMA-DMBoK)](https://connecteddataacademy.com/project/certified-data-management-professional-cdmp/ "CDMP (DAMA-DMBoK)")
     -   [DataVault Builder](https://datavault-builder.com/ "DataVault Builder")
     -   [Denodo](https://www.denodo.com "Denodo")
