@@ -59,6 +59,27 @@ Out of date, need updating:
   </picture>
 </a>
 
+<a href="https://git-scm.com/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Git-Dark.png">
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Git-Light.png" alt="Git", height="48">
+  </picture>
+</a>
+
+<a href="https://www.geneseeacademy.com/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/DataVault-Dark.png">
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/DataVault-Light.png" alt="DataVault", height="48">
+  </picture>
+</a>
+
+<a href="https://datavault-builder.com/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/DataVault-Builder-Dark.png">
+    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/DataVault-Builder-Light.png" alt="DataVault-Builder", height="48">
+  </picture>
+</a>
+
 ### Knowledge of:
 
 <a href="https://www.w3schools.com/html/" target="_blank">
@@ -94,27 +115,6 @@ Out of date, need updating:
 <a href="https://chat.openai.com/" target="_blank">
   <picture>
     <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/ChatGPT.png" alt="ChatGPT", height="48">
-  </picture>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Git-Dark.png">
-    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/Git-Light.png" alt="Git", height="48">
-  </picture>
-</a>
-
-<a href="https://www.geneseeacademy.com/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/DataVault-Dark.png">
-    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/DataVault-Light.png" alt="DataVault", height="48">
-  </picture>
-</a>
-
-<a href="https://datavault-builder.com/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/DataVault-Builder-Dark.png">
-    <img src="https://raw.githubusercontent.com/MikeBidinger/MikeBidinger/main/icons/DataVault-Builder-Light.png" alt="DataVault-Builder", height="48">
   </picture>
 </a>
 
