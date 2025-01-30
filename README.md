@@ -129,7 +129,6 @@ Out of date, need updating:
 
 -   [Markdown](https://github.com/MikeBidinger/Markdown "Markdown syntaxes")
 -   [Python functions](https://github.com/MikeBidinger/Python_Functions "Useful Python functions")
--   [Python API's](https://github.com/MikeBidinger/Python_API)
 -   [Python Anaconda](https://github.com/MikeBidinger/Python_Anaconda "Anaconda commands and info")
 
 ### Notable projects:
