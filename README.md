@@ -10,9 +10,11 @@ I keep challenging myself and others to broaden my knowledge.
     -   Improving [LLM agnostic chatbot (memory & RAG)](https://github.com/MikeBidinger/Chatbot)
 -   :man_student: I'm certified as:
     -   [Data Vault Data Modeler](https://connecteddataacademy.com/project/certified-data-vault-data-modeling/ "CDVDM")
-    -   [Data Management Fundamentals (DAMA-DMBoK)](https://connecteddataacademy.com/project/certified-data-management-professional-cdmp/ "CDMP (DAMA-DMBoK)")
-    -   [Data Warehousing and Business Intelligence Specialist (DAMA-DMBoK)](https://connecteddataacademy.com/project/dmbok-cdmp-specialist-examentraining-data-warehousing-bi/ "CDMP Data Warehousing and Business Intelligence (DAMA-DMBoK)")
+    -   DAMA CDMP [Fundamentals](https://connecteddataacademy.com/project/certified-data-management-professional-cdmp/ "CDMP Fundamentals")
+    -   DAMA CDMP Specialist [Data Warehousing and Business Intelligence](https://connecteddataacademy.com/project/dmbok-cdmp-specialist-examentraining-data-warehousing-bi/ "CDMP Data Warehousing and Business Intelligence")
 -   :books: I’m currently learning:
+    -   DAMA CDMP Specialist [Data Integration & Interoperability](https://connecteddataacademy.com/project/dama-cdmp-specialist-data-integration-interoperability-en/)
+    -   DAMA CDMP Specialist [Reference & Masterdata Management](https://connecteddataacademy.com/project/dama-dmbok-reference-and-masterdata/)
     -   [DataVault Builder](https://datavault-builder.com/ "DataVault Builder")
     -   [Denodo](https://www.denodo.com "Denodo")
 <!--
