@@ -6,11 +6,12 @@ I keep challenging myself and others to broaden my knowledge.
 *#ILoveToLearn*
 
 -   :man_office_worker: I’m currently working on:
-    -   [Mastering "Data Management"](https://connecteddatagroup.com/en/home-english/ "Connected Data Group, an Open Line company")
+    -   Mastering [Data Management](https://connecteddatagroup.com/en/home-english/ "Connected Data Group, an Open Line company")
     -   Improving [LLM agnostic chatbot (memory & RAG)](https://github.com/MikeBidinger/Chatbot)
 -   :man_student: I'm certified as:
-    -   [Certified Data Vault Data Modeler](https://connecteddataacademy.com/project/certified-data-vault-data-modeling/ "CDVDM")
-    -   [Certified Data Management Fundamentals (DAMA-DMBoK)](https://connecteddataacademy.com/project/certified-data-management-professional-cdmp/ "CDMP (DAMA-DMBoK)")
+    -   [Data Vault Data Modeler](https://connecteddataacademy.com/project/certified-data-vault-data-modeling/ "CDVDM")
+    -   [Data Management Fundamentals (DAMA-DMBoK)](https://connecteddataacademy.com/project/certified-data-management-professional-cdmp/ "CDMP (DAMA-DMBoK)")
+    -   [Data Warehousing and Business Intelligence Specialist (DAMA-DMBoK)](https://connecteddataacademy.com/project/dmbok-cdmp-specialist-examentraining-data-warehousing-bi/ "CDMP Data Warehousing and Business Intelligence (DAMA-DMBoK)")
 -   :books: I’m currently learning:
     -   [DataVault Builder](https://datavault-builder.com/ "DataVault Builder")
     -   [Denodo](https://www.denodo.com "Denodo")
