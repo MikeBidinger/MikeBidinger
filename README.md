@@ -129,10 +129,13 @@ Out of date, need updating:
 
 -   [Markdown](https://github.com/MikeBidinger/Markdown "Markdown syntaxes")
 -   [Python functions](https://github.com/MikeBidinger/Python_Functions "Useful Python functions")
+-   [Python venv](https://github.com/MikeBidinger/Python_venv)
 -   [Python Anaconda](https://github.com/MikeBidinger/Python_Anaconda "Anaconda commands and info")
+-   [Ollama](https://github.com/MikeBidinger/Ollama)
 
 ### Notable projects:
 
+-   [LLM agnostic chatbot (memory & RAG](https://github.com/MikeBidinger/Chatbot)
 -   [Webscraping using Selenium with Python](https://github.com/MikeBidinger/WebScrap_Selenium)
 -   [AI Webscraper](https://github.com/MikeBidinger/AI_Scraper)
 -   [ETL with Python](https://github.com/MikeBidinger/Python_ETL)
@@ -143,10 +146,7 @@ Out of date, need updating:
 
 ### Working on:
 
--   A [Python AI Chatbot](https://github.com/MikeBidinger/PythonOllamaChatbot) using Ollama (that is both hosted and ran locally)
--   [ETL app](https://github.com/MikeBidinger/ETL) built in Python including Streamlit GUI
--   Flexible and responsive Font-End visualisation of data-files (e.g. CSV, JSON, etc.)
--   A new basic, scalable and customizable platformer game with Pygame
+-   ...
 
 > [!TIP]
 > **MikeBidinger/MikeBidinger** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
