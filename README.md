@@ -146,7 +146,7 @@ Out of date, need updating:
 
 ### Working on:
 
--   ...
+-   Improving [LLM agnostic chatbot (memory & RAG)](https://github.com/MikeBidinger/Chatbot)
 
 > [!TIP]
 > **MikeBidinger/MikeBidinger** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
