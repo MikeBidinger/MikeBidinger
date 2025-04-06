@@ -135,7 +135,7 @@ Out of date, need updating:
 
 ### Notable projects:
 
--   [LLM agnostic chatbot (memory & RAG](https://github.com/MikeBidinger/Chatbot)
+-   [LLM agnostic chatbot (memory & RAG)](https://github.com/MikeBidinger/Chatbot)
 -   [Webscraping using Selenium with Python](https://github.com/MikeBidinger/WebScrap_Selenium)
 -   [AI Webscraper](https://github.com/MikeBidinger/AI_Scraper)
 -   [ETL with Python](https://github.com/MikeBidinger/Python_ETL)
